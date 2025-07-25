@@ -36,6 +36,7 @@ python titanic.py
 실행 결과:
 submission.csv 파일이 생성됩니다.
 Kaggle에 제출하면 예측 결과를 확인할 수 있습니다.
+```
 
 📌 참고
 캐글 대회 링크: https://www.kaggle.com/competitions/titanic
