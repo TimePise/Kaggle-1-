@@ -4,19 +4,6 @@
 
 ---
 
-## 📂 프로젝트 구성
-
-├── titanic.py # 전체 모델 학습 및 예측 코드
-├── train.csv # 학습용 데이터
-├── test.csv # 테스트용 데이터
-├── submission.csv # 예측 결과 (Kaggle 제출용)
-└── README.md # 프로젝트 설명 문서
-
-yaml
-코드 복사
-
----
-
 ## 🛠 사용 기술
 
 - Python
